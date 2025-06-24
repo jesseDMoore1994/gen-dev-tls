@@ -1,2 +1,8 @@
-.direnv
+*.pem
+*.crt
+*.key
+*.csr
+*.srl
 result
+.direnv
+*.log
